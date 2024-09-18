@@ -19,4 +19,7 @@ The model is trained using images as inputs for the encoder and their correspond
   
 - **Inference:**
 For validation, Sparse Categorical Crossentropy loss is applied, while caption generation during inference uses a Greedy algorithm. The BLEU score is utilized to evaluate caption quality on the test set.
+
+## RESULT
+  ![image](https://github.com/MeetJhaveri/Image-Caption-Generator/blob/main/Screenshot%202024-09-17%20at%2010.36.10%20PM.png)
   
